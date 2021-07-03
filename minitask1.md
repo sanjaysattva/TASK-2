@@ -12,3 +12,10 @@ with LED lights on the spectacles .
 
 **Pipeline**
 
+The one-line of this project is to receive sounds from the surroundings , process the direction of sound and signal using LEDs on the spectacles . 
+
+We need microphones to input sounds from the surrounding , microcontroller to process the input to give output , and LEDS to signal the direction of sound .
+
+We use an array of microphones to detect the sounds from the surroundings , however the spectacles cant support too many microphones . Thus we 
+use MEMS microphones , which are very small and multiple numbers of them can be employed. Also . MEMS microphones can be directly connected with 
+microcontrollers.MEMS technology is advantageous and convenient compared to Electret Condenser Microphone
